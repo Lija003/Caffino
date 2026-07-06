@@ -2,20 +2,24 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Data%20Cleaning&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Professional%20Data%20Cleaning%20and%20Preprocessing%20with%20Python&descAlignY=60"
-    alt="Data Cleaning and Preprocessing Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,D2B48C&height=250&section=header&text=Caffino&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=60&descSize=22"
+    alt="Caffino Coffee Website Banner"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=22C55E&center=true&vCenter=true&width=900&lines=Clean+Reliable+Analysis-Ready+Data;15+Data+Quality+Problems+Solved;Built+with+Python+Pandas+NumPy+and+Jupyter" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=D2B48C&center=true&vCenter=true&width=900&lines=☕+Welcome+to+Caffino;Premium+Coffee+Made+with+Passion;Every+Cup+Tells+a+Story;Freshly+Roasted+Beans+Every+Day;Experience+the+Perfect+Brew"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Responsive-Website-8B4513?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Website" />
+  <img src="https://img.shields.io/badge/Coffee-Lovers-D2B48C?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee Lovers" />
 </p>
 
 ---
