@@ -1,29 +1,38 @@
 # Caffino
+<!-- Coffee Banner -->
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,D2B48C&height=250&section=header&text=Caffino&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=60&descSize=22"
-    alt="Caffino Coffee Website Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6B3F0A,8A5E2F,D7B77A&section=header&text=Caffino&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=62&descSize=22"
+    alt="Caffino Banner"
   />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=D2B48C&center=true&vCenter=true&width=900&lines=☕+Welcome+to+Caffino;Premium+Coffee+Made+with+Passion;Every+Cup+Tells+a+Story;Freshly+Roasted+Beans+Every+Day;Experience+the+Perfect+Brew"
+    src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=25&duration=3500&pause=1000&color=D7B77A&center=true&vCenter=true&width=900&lines=☕+Welcome+to+Caffino;Crafting+Perfect+Coffee+Experiences;Freshly+Roasted+Premium+Beans;Where+Every+Cup+Tells+a+Story;Brewed+With+Love+Served+With+Passion"
     alt="Typing SVG"
   />
 </p>
 
+<!-- Tech Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Responsive-Website-8B4513?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Website" />
-  <img src="https://img.shields.io/badge/Coffee-Lovers-D2B48C?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee Lovers" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Responsive-6B3F0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coffee-D7B77A?style=for-the-badge&logo=buymeacoffee&logoColor=4B2E2B"/>
+  <img src="https://img.shields.io/badge/Caffino-Premium%20Coffee-8A5E2F?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Coffee+Lovers&color=8A5E2F&style=for-the-badge" />
 </p>
 
 ---
- Project Overview
+ ## ✨ Project Overview
 
 Caffino is a front-end coffee website built with HTML, CSS, and JavaScript. The design focuses on simplicity, responsiveness, and a warm coffee-inspired theme to create an engaging user experience.
 
