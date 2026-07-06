@@ -3,7 +3,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6B3F0A,B87333&section=header&text=Caffino&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=62&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6B3F0A,F0E68C&section=header&text=Caffino&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=62&descSize=22"
     alt="Caffino Banner"
   />
 </p>
