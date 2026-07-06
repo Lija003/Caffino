@@ -3,7 +3,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6B3F0A,8A5E2F,D7B77A&section=header&text=Caffino&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=62&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6B3F0A&section=header&text=Caffino&fontColor=FFFFFF&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Every%20Cup%20Delivers%20Smooth%20Taste%20and%20Comfort&descAlignY=62&descSize=22"
     alt="Caffino Banner"
   />
 </p>
@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Caffino-Premium%20Coffee-8A5E2F?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Coffee+Lovers&color=8A5E2F&style=for-the-badge" />
-</p>
 
 ---
  ## ✨ Project Overview
@@ -209,9 +205,8 @@ This project is open-source and available under the **MIT License**.
 
 **Lija Moni**
 
-Web Developer  
-Data Analysis Enthusiast  
-Problem Solver  
+Frontend Developer  
+Crafting beautiful UI/UX  
 
 GitHub: [@lija003](https://github.com/lija003)
 
