@@ -27,7 +27,7 @@
 </p>
 
 ---
-## Live-link: Caffino[https://caffino03.netlify.app/] 
+## Live-link: [Caffino](https://caffino03.netlify.app/) 
 
 ---
  ## ✨ Project Overview
